@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 """ N queens """
 import sys
 
@@ -42,3 +41,4 @@ def solve(n):
 
 
 solve(n)
+
